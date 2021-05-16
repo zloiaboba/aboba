@@ -1,0 +1,14 @@
+caption {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+}
+
+table td, table th {
+    font-size: 150%;
+    text-align: center;
+    border: black solid 1px;
+}
